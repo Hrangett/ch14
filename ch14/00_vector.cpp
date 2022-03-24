@@ -40,7 +40,8 @@ int main()
 	{
 		if (*iter_s == "lion")
 		{
-			s.erase(iter_s);
+			/*s.erase(iter_s);*/
+			cout << "»çÀÚ" << endl;
 		break;
 		}
 
